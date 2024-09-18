@@ -6,7 +6,7 @@ This browser based web application to ...
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-* ...
+* Hi, my name is Haven. 
 * ...
 * ...
 	
@@ -54,7 +54,7 @@ It has the following subfolders and files:
 ├── styles                   # Folder for styles
     /blah.css                # 
 
-
+    
 
 ```
 
